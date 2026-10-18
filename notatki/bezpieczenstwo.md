@@ -1,0 +1,1 @@
+Nie wolno zapisywać haseł ani kluczy dostępu w repozytorium, ponieważ inne osoby mogą je zobaczyć i wykorzystać. Publiczne repozytorium jest dostępne dla każdego w internecie. Samo usunięcie pliku z hasłem nie wystarcza, ponieważ hasło może nadal znajdować się w historii zmian. Dlatego należy usunąć je również z historii repozytorium i zmienić hasło lub unieważnić klucz dostępu.
